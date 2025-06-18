@@ -1,0 +1,1 @@
+Este repositorio contiene los laboratorios a entregar en grupos para el Bootcamp Analisis y visualización de Datos impartido por Talento Tech y con el auspicio del MinTic del Gobierno de la Republica de Colombia.
